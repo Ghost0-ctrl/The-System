@@ -1,12 +1,12 @@
 # The-System
 In this System, you, the player, have all the resources you need to become among the elite. It is filled with material to ultimately make a newbie into an Exploit Developer - Good Luck.
 
-                                                                                   *   *   *
+                                                              *   *   *
                                         
 This realm is intended to provide all the necessary course material, books, podcasts, tutorials, etc, needed to help the aspiring hacker achieve his/her goal of Zero Day Exploitation. 
 There will be some cool missions, quests, skill acquisitions, title acquisitions and more. The important note here is to enjor the ride and not focus too heavily on the end goal as that is probably still far away. 
 
-                                                                                   *   *   *
+                                                              *   *   *
                                         
 In this system, you are the player known as the “Monarch of Shadows”. You, however, are not fit to carry that title with your current strength and power. Hence The System is set and designed to ensure your growth and progression in order to reach that power. Chin up, shoulders back, dive in and focus everyday. Your goal is simple, accumulate more chrono fragments and exp.
 
@@ -67,7 +67,7 @@ Just like in games, if you **push too hard, you die (mentally).** To avoid this:
 **🔥 HP at 0?** → You enter **Overheat Mode**, where your CF rewards **halve** until you restore your HP.
 
 
-                                                                                   *   *   *
+                                                              *   *   *
 
 # How EXP Works
 
@@ -133,7 +133,7 @@ If you want a **visual EXP bar**, you can create a **progress bar** manually:
 
 ---
 
-                                                                                   *   *   *
+                                                              *   *   *
 
 
 ## **🕳️ CHRONO MASTERY: EXPANDED LEVEL SYSTEM**
@@ -227,7 +227,7 @@ ________________________________________________________________________________
 
 
 
-                                                                                   *   *   *
+                                                              *   *   *
 
 ## **Bonus: Side Quests**
 To make it more interactive, you can earn **Bonus EXP** from **special quests**:
