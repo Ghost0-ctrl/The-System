@@ -145,6 +145,7 @@ Goes through many tutorials covering:
   - Link: https://www.corelan.be/index.php/articles/
 
 ### **Pwn.College**
+Link: https://pwn.college/dojos
 Goes through:
 
 Software Exploitation
@@ -177,7 +178,6 @@ Intro to Cybsersecurity
   - Binary Exploitation
   - Integrated Security
 
-- Link: https://pwn.college/dojos
 
 ### **Udemy**
 Offers foundational courses on ED such as:
