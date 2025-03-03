@@ -95,7 +95,7 @@ https://github.com/TrshPuppy/obsidian-notes/blob/main/PNPT/PEH/active-directory/
                                                               *   *   *
 
 # **Courses & Online Material**
-Maldev Academy
+### **Maldev Academy**
   - Malware Development
   - Obfuscation & Evasion
   - Windows Internals & C Programming
