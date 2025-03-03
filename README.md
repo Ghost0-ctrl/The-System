@@ -134,7 +134,9 @@ If you want a **visual EXP bar**, you can create a **progress bar** manually:
 
 ---
 
-##**🕳️ CHRONO MASTERY: EXPANDED LEVEL SYSTEM**
+
+
+## **🕳️ CHRONO MASTERY: EXPANDED LEVEL SYSTEM**
 
 *Your path to 0DED is long, treacherous, and unforgiving. Only those who persist beyond the limits of sanity will carve their name into the void.*
 
