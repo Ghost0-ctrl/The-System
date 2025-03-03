@@ -92,6 +92,9 @@ https://github.com/TrshPuppy/obsidian-notes/blob/main/PNPT/PEH/active-directory/
 An Awesome guide to OSCE3 and OSEE
 https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
 
+A complete set of ebooks by Joas A Santos  
+https://drive.google.com/drive/u/0/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU
+
 
                                                  *   *   *
                                                  *   *   *
