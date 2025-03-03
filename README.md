@@ -14,16 +14,18 @@ Cybernetics Skill Tree – The Path of the 0DED & APT
 "In the void between data and destruction, only the sharpened mind carves its path through the abyss."
 
 Currency:🔹*Chrono Fragments* (Time Invested)
+
 *"Power is measured in the hours bled into the void."*
-    - Each hour studied = **1 Chrono Fragment**
-    - You can **spend** Chrono Fragments on different upgrades, unlocks, or rewards
+
+  - Each hour studied = **1 Chrono Fragment**
+  - You can **spend** Chrono Fragments on different upgrades, unlocks, or rewards
 
 
 **Burnout & Fatigue System**
-    🌿 **Normal State** (0-40%) ~ 2 hours
-    🔥 **Fatigue Rising** (40-70%) ~ 4 hours
-    💀 **Near Burnout** (70-100%) ~ 8 hours
-    ☠️ **Overworked!** (100%+) ~ 12 hours
+🌿 **Normal State** (0-40%) ~ 2 hours
+🔥 **Fatigue Rising** (40-70%) ~ 4 hours
+💀 **Near Burnout** (70-100%) ~ 8 hours
+☠️ **Overworked!** (100%+) ~ 12 hours
 
 **Mitigations to prevent Burnout:**
     - 6-8 hours of Sleep
