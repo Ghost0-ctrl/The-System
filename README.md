@@ -4,7 +4,7 @@ In this System, you, the player, have all the resources you need to become among
                                                               *   *   *
                                         
 This realm is intended to provide all the necessary course material, books, podcasts, tutorials, etc, needed to help the aspiring hacker achieve his/her goal of Zero Day Exploitation. 
-There will be some cool missions, quests, skill acquisitions, title acquisitions and more. The important note here is to enjor the ride and not focus too heavily on the end goal as that is probably still far away. 
+There will be some cool missions, quests, skill acquisitions, title acquisitions and more. The important note here is to enjoy the ride and not focus too heavily on the end goal as that is probably still far away. 
 
                                                               *   *   *
                                         
