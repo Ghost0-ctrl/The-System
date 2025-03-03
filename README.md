@@ -22,31 +22,48 @@ Currency:🔹*Chrono Fragments* (Time Invested)
 
 
 **Burnout & Fatigue System**
+
 🌿 **Normal State** (0-40%) ~ 2 hours
+
 🔥 **Fatigue Rising** (40-70%) ~ 4 hours
+
 💀 **Near Burnout** (70-100%) ~ 8 hours
+
 ☠️ **Overworked!** (100%+) ~ 12 hours
 
 **Mitigations to prevent Burnout:**
-    - 6-8 hours of Sleep
-    - Coffee on standby
-    - 10 minute Break after every 65 minute session if necessary
-    - 10 minute excersise session
+
+- 6-8 hours of Sleep
+
+- Coffee on standby
+
+- 10 minute Break after every 65 minute session if necessary
+
+- 10 minute excersise session
+
 - `If psychological or emotional stress occurs:`
+   
     1. Drink some coffee
+    
     2. Calm Down
+    
     3. Remember your goals, efforts and the person you have been trying so hard to become.
+    
     4. Spend some time in nature or go for a walk.
+   
     5. Socialise with those you care about.
  
 ### **🩸 Blood Bar – Burnout Prevention**
+
 Just like in games, if you **push too hard, you die (mentally).** To avoid this:
-    - Set a **Health Bar (HP)** in Notion, starting at **100 HP.**
-    - **Every hour spent hacking drains 5 HP.**
-    - **Restoring HP:**
-        - **Breaks (15-30 min)** → +10 HP
-        - **Exercise (Workout, Walk, etc.)** → +20 HP
-        - **Sleep (7+ hours)** → +50 HP
+   
+  - Set a **Health Bar (HP)** in Notion, starting at **100 HP.**
+  - **Every hour spent hacking drains 5 HP.**
+  - **Restoring HP:**
+    - **Breaks (15-30 min)** → +10 HP
+    - **Exercise (Workout, Walk, etc.)** → +20 HP
+    - **Sleep (7+ hours)** → +50 HP
+      
 **🔥 HP at 0?** → You enter **Overheat Mode**, where your CF rewards **halve** until you restore your HP.
 
 
