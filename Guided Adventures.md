@@ -99,7 +99,7 @@ https://github.com/TrshPuppy/obsidian-notes/blob/main/PNPT/PEH/active-directory/
   - Malware Development
   - Obfuscation & Evasion
   - Windows Internals & C Programming
-  Link: https://maldevacademy.com/
+  - Link: https://maldevacademy.com/
 
 ### **Codecademy**
 Teaches everything code related with tons of hands-on learning and challenges.
@@ -111,11 +111,11 @@ Includes but is not limited to:
   - Data Scientist
   - Data Engineer
   - NLP Scientist
-  Link: https://www.codecademy.com/
+  - Link: https://www.codecademy.com/
 
 ### **Datacamp**
 Datacamp is like the twin of Codecademy.
-Link: https://app.datacamp.com/
+- Link: https://app.datacamp.com/
 
 ### **Open Security Training/2**
 Teaches all low-level exploitation related concepts, such as:
@@ -130,19 +130,19 @@ Teaches all low-level exploitation related concepts, such as:
   - Advanced x86: Virtualisation with Intel VT-X
   - Advanced x86: Intro to BIOS & SMM
   - Rootkits
-  Link for OST: https://www.opensecuritytraining.info/Training.html
-  Link for OST2: https://p.ost2.fyi/courses
+  - Link for OST: https://www.opensecuritytraining.info/Training.html
+  - Link for OST2: https://p.ost2.fyi/courses
 
 ### **TryHackMe**
 Goes through everything hacking related. There are modules that target concepts like buffer overflows, the kernel, etc.
-Link: https://tryhackme.com/
+- Link: https://tryhackme.com/
 
 ### **Corelan**
 Goes through many tutorials covering:
   - Exploit Writing
   - Fuzzing
   - Malware & Reverse Engineering
-  Link: https://www.corelan.be/index.php/articles/
+  - Link: https://www.corelan.be/index.php/articles/
 
 ### **Pwn.College**
 Goes through:
@@ -177,7 +177,7 @@ Intro to Cybsersecurity
   - Binary Exploitation
   - Integrated Security
 
-Link: https://pwn.college/dojos
+- Link: https://pwn.college/dojos
 
 ### **Udemy**
 Offers foundational courses on ED such as:
@@ -198,14 +198,14 @@ Offers foundational courses on ED such as:
   - Windows Heap Exploitation
   - Linux Exploit Development Tutorials
   - Occult Windows Hacking
-  Link: https://fuzzysecurity.com/tutorials.html
+  - Link: https://fuzzysecurity.com/tutorials.html
 
 ### **ROP Emporium**
 Learn return-oriented programming through a series of challenges.
 8 Challenges that ends with an option to continue improving ED skills via the following courses:
   - Linux Heap Exploitation - Part 1
   - Linux Heap Exploitation - Part 2
-  Link: https://ropemporium.com/
+  - Link: https://ropemporium.com/
 
 
 
