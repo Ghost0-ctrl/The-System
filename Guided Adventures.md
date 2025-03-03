@@ -89,6 +89,9 @@ https://github.com/0vercl0k/rp
 Notes on PNPT Exam & Course
 https://github.com/TrshPuppy/obsidian-notes/blob/main/PNPT/PEH/active-directory/active-directory-overview.md
 
+An Awesome guide to OSCE3 and OSEE
+https://github.com/CyberSecurityUP/OSCE3-Complete-Guide
+
 
                                                  *   *   *
                                                  *   *   *
