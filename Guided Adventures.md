@@ -1,6 +1,6 @@
 Below is the Library for the aspiring Exploit Developer and APT
 
-                                                              *   *   *
+                                                 *   *   *
 # **Books**
 The Art of Software Security Assessment
 https://archive.org/details/artofsoftwaresec0000dowd
@@ -61,9 +61,9 @@ https://github.com/Gajasurve/CurrentRead/blob/master/Attacking-Network-Protocols
 
 
 
-                                                              *   *   *
-                                                              *   *   *
-                                                              *   *   *
+                                                 *   *   *
+                                                 *   *   *
+                                                 *   *   *
 
 
 
@@ -90,9 +90,9 @@ Notes on PNPT Exam & Course
 https://github.com/TrshPuppy/obsidian-notes/blob/main/PNPT/PEH/active-directory/active-directory-overview.md
 
 
-                                                              *   *   *
-                                                              *   *   *
-                                                              *   *   *
+                                                 *   *   *
+                                                 *   *   *
+                                                 *   *   *
 
 # **Courses & Online Material**
 ### **Maldev Academy**
