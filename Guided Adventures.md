@@ -101,7 +101,7 @@ https://github.com/TrshPuppy/obsidian-notes/blob/main/PNPT/PEH/active-directory/
   - Windows Internals & C Programming
   Link: https://maldevacademy.com/
 
-Codecademy
+### **Codecademy**
 Teaches everything code related with tons of hands-on learning and challenges.
 Includes but is not limited to:
   - C, Python, C++, Java programming Courses
@@ -113,11 +113,11 @@ Includes but is not limited to:
   - NLP Scientist
   Link: https://www.codecademy.com/
 
-Datacamp
+### **Datacamp**
 Datacamp is like the twin of Codecademy.
 Link: https://app.datacamp.com/
 
-Open Security Training/2
+### **Open Security Training/2**
 Teaches all low-level exploitation related concepts, such as:
   - x86-64 Assembly
   - Windbg Debugging (Other Debugging tools as well)
@@ -133,18 +133,18 @@ Teaches all low-level exploitation related concepts, such as:
   Link for OST: https://www.opensecuritytraining.info/Training.html
   Link for OST2: https://p.ost2.fyi/courses
 
-TryHackMe
+### **TryHackMe**
 Goes through everything hacking related. There are modules that target concepts like buffer overflows, the kernel, etc.
 Link: https://tryhackme.com/
 
-Corelan 
+### **Corelan**
 Goes through many tutorials covering:
   - Exploit Writing
   - Fuzzing
   - Malware & Reverse Engineering
   Link: https://www.corelan.be/index.php/articles/
 
-Pwn.College
+### **Pwn.College**
 Goes through:
 
 Software Exploitation
@@ -179,7 +179,7 @@ Intro to Cybsersecurity
 
 Link: https://pwn.college/dojos
 
-Udemy
+### **Udemy**
 Offers foundational courses on ED such as:
   - Red Teaming | Exploit Development with Assembly and C |MSAC+
   - 64-Bit Assembly & Shellcoding for Ethical Hackers
@@ -193,14 +193,14 @@ Offers foundational courses on ED such as:
   - Linux Heap Exploitation - Part 1
   - Linux Heap Exploitation - Part 2
 
-Fuzzy Security
+### **Fuzzy Security**
   - Windows Exploit Development Tutorials
   - Windows Heap Exploitation
   - Linux Exploit Development Tutorials
   - Occult Windows Hacking
   Link: https://fuzzysecurity.com/tutorials.html
 
-ROP Emporium
+### **ROP Emporium**
 Learn return-oriented programming through a series of challenges.
 8 Challenges that ends with an option to continue improving ED skills via the following courses:
   - Linux Heap Exploitation - Part 1
