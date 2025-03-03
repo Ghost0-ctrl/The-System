@@ -145,7 +145,7 @@ Goes through many tutorials covering:
   - Link: https://www.corelan.be/index.php/articles/
 
 ### **Pwn.College**
-Link: https://pwn.college/dojos
+- Link: https://pwn.college/dojos
 Goes through:
 
 Software Exploitation
